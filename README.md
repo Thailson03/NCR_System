@@ -16,5 +16,5 @@ Sistema de gerenciamento administrativo de uma startup com telas de consoleem li
 
 # Login de Administrador:
 
-Usuário: ADMIN
-Senha: @NCRadmin
+- Usuário: ADMIN
+- Senha: @NCRadmin
