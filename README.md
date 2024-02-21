@@ -13,3 +13,8 @@ Sistema de gerenciamento administrativo de uma startup com telas de consoleem li
 - Sobre a NCR System (Missões, Visões e Valores fictícios)
 - Ajustes (Redefinir Senha, Redefinir tema)
 - Encerrar sessão
+
+# Login de Administrador:
+
+Usuário: ADMIN
+Senha: @NCRadmin

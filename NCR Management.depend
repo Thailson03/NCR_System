@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1666926180 source:c:\users\windows\desktop\projeto_pim\ncr management\header.c
+	"header.h"
+	"stdio.h"
+	"windows.h"
+	"time.h"
+	"locale.h"
+	"conio.h"
+	"header.h"
+	"stdio.h"
+	"windows.h"
+	"time.h"
+	"locale.h"
+	"conio.h"
+
+1666925872 c:\users\windows\desktop\projeto_pim\ncr management\header.h
+
+1666925872 source:c:\users\windows\desktop\projeto_pim\ncr management\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"conio.h"
+	"windows.h"
+	"locale.h"
+	"time.h"
+	"header.h"
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"conio.h"
+	"windows.h"
+	"locale.h"
+	"time.h"
+	"header.h"
+
+1699328263 source:c:\users\windows\desktop\ncr_system\ncr management\header.c
+	"header.h"
+	"stdio.h"
+	"windows.h"
+	"time.h"
+	"locale.h"
+	"conio.h"
+
+1670169442 c:\users\windows\desktop\ncr_system\ncr management\header.h
+
+1670169442 source:c:\users\windows\desktop\ncr_system\ncr management\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"conio.h"
+	"windows.h"
+	"locale.h"
+	"time.h"
+	"header.h"
+	"resource.h"
+
+1667700654 source:d:\ncr_system\ncr management\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"conio.h"
+	"windows.h"
+	"locale.h"
+	"time.h"
+	"header.h"
+
+1668997504 d:\ncr_system\ncr management\header.h
+
+1669074966 source:d:\ncr_system\ncr management\header.c
+	"header.h"
+	"stdio.h"
+	"windows.h"
+	"time.h"
+	"locale.h"
+	"conio.h"
+
+1669216218 c:\users\windows\desktop\ncr_system\ncr management\resource.h
+
+1669257136 source:c:\users\windows\desktop\ncr_system\ncr management\resource.rc
+	"resource.h"
+	"afxres.h"
+

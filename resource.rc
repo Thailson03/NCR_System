@@ -1,0 +1,4 @@
+#include "resource.h"
+#include "afxres.h"
+
+MAIN ICON "icone.ico"
